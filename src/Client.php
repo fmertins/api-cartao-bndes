@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Fmertins\ApiBndes;
+namespace ApiBndes;
 
 use \RuntimeException;
 use \InvalidArgumentException;

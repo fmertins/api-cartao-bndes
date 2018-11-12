@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Fmertins\ApiBndes;
+namespace ApiBndes;
 
 /**
  * Exceções geradas quando ocorrer erro na API de Pagamentos do BNDES.
