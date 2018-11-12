@@ -9,7 +9,7 @@ use \InvalidArgumentException;
 /**
  * Cliente para consumir métodos da API de Pagamentos do Cartão BNDES.
  *
- * @package Fmertins\ApiBndes
+ * @package ApiBndes
  */
 class Client
 {
